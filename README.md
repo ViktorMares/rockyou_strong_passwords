@@ -1,6 +1,6 @@
 ## rockyou.txt, but with strong passwords only
 
-A password list to crack passwords, that you know have a minimum complexity requirements of:
+### A password list to crack passwords, that you know have a minimum complexity requirements of:
   * 8 to 28 Characters
   * 1 Capital letter
   * 1 Lowercase letter
